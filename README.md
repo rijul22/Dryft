@@ -7,7 +7,7 @@
 **Dryft is a mobile app that finds, tracks, and helps you cancel your subscriptions — automatically.**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=flat)
 
@@ -35,6 +35,9 @@ Connect your Gmail account and Dryft scans your inbox for subscription and billi
 ### Spending dashboard
 See your total monthly subscription spend at a glance, track month-over-month changes, and follow your **spending trend over time**. Dryft also totals up what you've saved through cancellations.
 
+### One-click cancellation
+No hunting through account settings, hidden cancellation pages, or retention flows. Every subscription has a **Cancel Subscription** button right on its detail page - one tap, and Dryft handles the rest, instantly updating your dashboard and savings totals.
+
 ### "What would I save?" cancellation insights
 Every subscription gets a detailed view with monthly and yearly cost, next billing date, and full billing history - plus a **projected-savings breakdown** showing what cancelling today saves you over 3, 6, and 12 months.
 
@@ -53,7 +56,7 @@ A searchable, sortable list of every active and cancelled subscription with live
 | Layer | Technology |
 |---|---|
 | Mobile app | **Flutter** (iOS & Android from a single codebase) |
-| Auth & data | **Firebase** (authentication, cloud data storage) |
+| Auth & data | **Supabase** (authentication, Postgres database) |
 | Email import | **Gmail API** (OAuth) + rule-based email parsing engine |
 | Detection | Pattern matching on senders, subjects & payment amounts, with per-match confidence scoring |
 
@@ -61,12 +64,12 @@ A searchable, sortable list of every active and cancelled subscription with live
 
 ## 👥 Team
 
-Dryft was built as a startup venture by a small founding team. I led the design and development of the mobile app.
+Dryft was built as a startup venture by a small founding team. As co-founder, I led the product side — concept, user experience, and business strategy — working alongside our technical co-founder who built the app.
 
 ---
 
 <div align="center">
 
-*Built with Flutter & Firebase · Dryft © 2026*
+*Built with Flutter & Supabase · Dryft © 2026*
 
 </div>
