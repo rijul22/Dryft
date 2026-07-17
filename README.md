@@ -27,18 +27,18 @@ The average person pays for **10+ recurring subscriptions** and underestimates t
 
 *(Click the link above — GitHub will play the video in the browser.)*
 
-## ✨ Features
+## Features
 
-### 📬 One-tap Gmail import
-Connect your Gmail account and Dryft scans your inbox for subscription and billing emails. A rule-based parsing engine matches sender, subject, and payment patterns to detect recurring charges — each detection comes with a **confidence score**, and you choose exactly which ones to import. No manual data entry.
+### One-tap Gmail import
+Connect your Gmail account and Dryft scans your inbox for subscription and billing emails. A rule-based parsing engine matches sender, subject, and payment patterns to detect recurring charges - each detection comes with a **confidence score**, and you choose exactly which ones to import. No manual data entry.
 
-### 📊 Spending dashboard
+### Spending dashboard
 See your total monthly subscription spend at a glance, track month-over-month changes, and follow your **spending trend over time**. Dryft also totals up what you've saved through cancellations.
 
-### 💸 "What would I save?" cancellation insights
-Every subscription gets a detail view with monthly and yearly cost, next billing date, and full billing history — plus a **projected-savings breakdown** showing what cancelling today saves you over 3, 6, and 12 months.
+### "What would I save?" cancellation insights
+Every subscription gets a detailed view with monthly and yearly cost, next billing date, and full billing history - plus a **projected-savings breakdown** showing what cancelling today saves you over 3, 6, and 12 months.
 
-### 🗂 All your subscriptions, one list
+### All your subscriptions, one list
 A searchable, sortable list of every active and cancelled subscription with live status, price, and upcoming billing dates — so nothing renews without you knowing.
 
 ## 📱 Screenshots
