@@ -23,9 +23,11 @@ The average person pays for **10+ recurring subscriptions** and underestimates t
 
 ## 🎥 Demo
 
-**[▶ Watch the full demo video](Final_Demo_Dryft.mp4)**
 
-*(Click the link above — GitHub will play the video in the browser.)*
+https://github.com/user-attachments/assets/a3ed9551-d9cb-4164-b05e-e8bf94ed651d
+
+
+
 
 ## Features
 
